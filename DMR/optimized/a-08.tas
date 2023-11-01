@@ -1,0 +1,46 @@
+RecordCount: 376
+Unsafe
+
+#console load MoonRuins/1-moonruins a-08
+
+#Start
+  50
+   4,R,U,J
+   7,R
+   1,D,X
+  13,U
+  17,J
+#corner
+   1,D,X
+  16,U
+  12,L
+  11,R,J
+  13,R,D
+  14,D
+   7,R,D
+   9,R
+#yes this is how your'e supposed to do this part
+  11,R,J,G
+  20,R
+   1,L,J,G
+   7
+  11,U,X
+  11,R,J
+   1,D,X
+   5,U
+  44,R,D,X
+#le funny
+  12,R,J,G
+   9,R,U,X
+   6,R,J
+#wait madeline, what are you doing
+  16,R
+   1,D,X
+  22,R
+   1,J
+  23,L,J
+   3,J
+   1,L,K,G
+  40,R
+  14,R,D,X
+   3,R

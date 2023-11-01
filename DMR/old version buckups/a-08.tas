@@ -1,0 +1,55 @@
+ RecordCount: 224
+Unsafe
+
+#Start
+
+  11,R,U,J
+  19
+  19,U,X
+  18,R,J
+#corner
+   6,U,Z
+  18,L,U
+  14,L,G
+  23,R,U,J,G
+  24
+  16,R,U,J,G
+  26,R,U,K,G
+   1
+   1,R,U,J,G
+  10
+  28,R,U,J,G
+  19,U,X
+   1
+  19,U,X
+   9
+  18,L
+   8,G
+  32,R,U,J,G
+  30,G
+#cpop align
+   4
+  25,J
+  17,R,J
+  45,R,J,G
+  20,G
+   3,D,G
+   4,G
+   1,D,G
+   4,G
+  30,G
+#cpop
+   2,R,D,G
+   1,R,U,D,J,G
+  22,R,U,J
+#touchswitch
+   6,U,Z
+  12,R
+   6,R,U,J
+  18,R,J
+  19,R,Z
+  18
+   6,J
+  33,U
+  11,R,U,J
+   6,R,D,Z

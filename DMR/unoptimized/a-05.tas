@@ -1,0 +1,53 @@
+RecordCount: 87
+Unsafe
+
+#Start
+
+   3,J
+   3,L,U,J
+  14,U,J
+   1,U,J,X
+  19,U,X
+   4,U,J
+  35,L,U,J
+
+   5,R,U,X
+  10,R,U,J
+  26,R,U,J
+  19,U,X
+   4,U,J
+
+#wounce
+  11,L,U,J
+  17,R,J,G
+   6,R,U,K,G
+  23,R,U,J
+  30,G
+  20,D,G
+   1,G
+   1,D,G
+  60,G
+
+#cpop
+   2,R,D,G
+   1,R,D,J,G
+  26,R,U,J,G
+
+#wallbounce
+  19,U,X
+  45,R,U,J,G
+
+#dd-dorner kick (diagonal dash demo corner kick)
+  16,G
+  12
+   9,R,U,Z
+#dewounce
+  36,R,U,J
+   4
+  19,U,Z
+   6,L,U,J
+
+#ending climb
+  64,L,U,J,G
+  45,L,U,G
+  45,R,U,J,G
