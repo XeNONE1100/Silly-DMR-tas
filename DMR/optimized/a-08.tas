@@ -1,7 +1,7 @@
-RecordCount: 376
+RecordCount: 474
 Unsafe
 
-#console load MoonRuins/1-moonruins a-08
+console load MoonRuins/1-moonruins a-08
 
 #Start
   50
@@ -44,3 +44,18 @@ Unsafe
   40,R
   14,R,D,X
    3,R
+  11,R
+  10,R,D,X
+  11,R,D,J
+  16,R,U,Z
+   2,J
+Repeat 18
+   2,K
+   2,J
+EndRepeat
+  18,R,K
+   2,J,G
+   4,K,G
+   7,R
+  10,R,D,X
+ 100,R,J
