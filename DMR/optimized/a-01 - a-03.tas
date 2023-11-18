@@ -1,4 +1,4 @@
-RecordCount: 393
+RecordCount: 534
    1,Q
    1,O
  141
@@ -84,20 +84,20 @@ RecordCount: 393
   16,R,D,X
    9,R,J,G
   19,R
-  28,X
-#reading is good fr fr
-   1,O
-   1,J
-  89
-   1,J
-   1,O
-   1,J
-   1,O
-   1,J
-   1,O
-   1,J
-  69
-   1,O
+#  28,X
+#reading is good fr fr (uncomment or lecture
+#   1,O
+#   1,J
+#  89
+#   1,J
+#   1,O
+#   1,J
+#   1,O
+#   1,J
+#   1,O
+#   1,J
+#  69
+#   1,O
   27
   11,R,D,X
   16,R,J
@@ -150,4 +150,51 @@ RecordCount: 393
 #I cannot hold it in anymore
    1,R,J,G
   13,R
- 100,R,D,X
+
+  55,R,D,X
+  10,R,J
+  17,U,X
+  19,R,J
+  22,U,X
+  47,R,J
+   5,L
+   4,J,G
+   3,R,J
+  20,U,X
+***S
+  41,R,J
+  15,U,X
+  23,R,J
+  15,U,X
+***S
+  18,R,J
+  37,R,U,J,C
+  11,X
+  30,L,J
+  21,L,U,X
+  12,U,Z
+  16,R,J
+   8,K,G
+   8
+  11,X
+  12,L,J
+  13,K,G
+  18,L,J,G
+   1,K
+  22,J
+  13,L,J
+  29,L,K,G
+   8,K
+   4,L,J
+   9,L
+  20,L,J,G
+  20,L,D,X
+  46,L,D,C
+  12,L,J
+  14,L,D,X
+   1,L,J
+   3,L,K,G
+   1
+  11,L
+   1
+   1,X
